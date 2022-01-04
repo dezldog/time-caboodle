@@ -1,0 +1,3 @@
+KERNEL=="pps0",SYMLINK+="gpspps0"
+KERNEL=="ttyS0", SYMLINK+="gps0"
+
