@@ -1,7 +1,7 @@
+# Original code taken from a few files by:
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
-
-# -*- coding: utf-8 -*-
+# -*-
 # transmogrifying added by dezldog 3JAN22
 
 import time
