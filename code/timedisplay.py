@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 # -*- coding: utf-8 -*-
+# transmogrifying added by dezldog 3JAN22
 
 import time
 import subprocess
